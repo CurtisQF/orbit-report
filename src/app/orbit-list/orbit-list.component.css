@@ -5,10 +5,11 @@
 
 .warning {
     background-color: darkred;
+    color: lightgrey
 }
 
 table {
-  color: rgb(13, 112, 46);
+  color: rgb(88, 88, 88);
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
